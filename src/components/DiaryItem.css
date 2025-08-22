@@ -39,17 +39,14 @@
 .img-section.bg-5 {
     background-color: rgb(253, 86, 95);
 }
-
-.info-section {
+.info-section{
     flex: 1;
     cursor: pointer;
 }
-
-.info-section .content {
+.info-section .content{
     font-size: 18px;
 }
-
-.info-section .created-date {
+.info-section .created-date{
     font-size: 25px;
     font-weight: bold;
 }
